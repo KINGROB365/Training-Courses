@@ -13,13 +13,13 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="SFA Forecasting Tool Updated" />
+              <option name="title_text" value="SFA Forecasting Tool Updated V. 3" />
             </options>
           </option>
           <option name="logo_enabled" value="true">
             <options>
               <option name="logo_url" />
-              <option name="html5_logo_url" value="mobile/6R8G6VgIUcV.png" />
+              <option name="html5_logo_url" value="mobile/63HuZ5JubO7.png" />
             </options>
           </option>
           <option name="sidebar_enabled" value="true">
@@ -1575,8 +1575,8 @@
       <links>
         <slidelink slideid="_player.6FvKxVCILC4" displaytext="SFA Forecasting Tool" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6FvKxVCILC4.6lzNOzuF8oo" displaytext="WELCOME LAYOUT" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvKxVCILC4.61JbvzXUP6c" displaytext="Welcome Layout" expand="false" type="slide" />
+            <slidelink slideid="_player.6FvKxVCILC4.6lzNOzuF8oo" displaytext="SFA Forecasting Tool" expand="false" type="slide" />
+            <slidelink slideid="_player.6FvKxVCILC4.61JbvzXUP6c" displaytext="Training Overview" expand="false" type="slide" />
             <slidelink slideid="_player.6FvKxVCILC4.68JUzEjRH3X" displaytext="SFA Forecasting Tool" expand="false" type="slide" />
             <slidelink slideid="_player.6FvKxVCILC4.6aih2urMgco" displaytext="Adjustment Scenario 1" expand="false" type="slide" />
             <slidelink slideid="_player.6FvKxVCILC4.6DH3OkJxDDs" displaytext="Prior Months Perfromance" expand="false" type="slide" />
